@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="003a814b-fc1f-4901-acce-af98e93fdb56" name="Rasp">
+        <fileTransfer rootFolder="/home/pi" accessType="SFTP" host="192.168.137.167" port="22" sshConfigId="04b44d5f-cede-4e94-92d2-cb51efb8afb3" sshConfig="pi@192.168.137.167:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
